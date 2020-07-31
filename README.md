@@ -1,4 +1,4 @@
-# amination
+# Authentication of Flutter app using node
 
 A new Flutter project.
 
